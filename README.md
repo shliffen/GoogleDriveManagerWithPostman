@@ -20,8 +20,8 @@ https://www.youtube.com/watch?v=D4Ho_rc_Ndw
 
 Version 1.0
 **Technologies used**
-* Java + Maven + Spring Boot MVC + REST + Postman (as FrontEnd)
+* Java + Maven + Spring Boot MVC + REST + Postman (as FrontEnd) + Swagger (Documentation)
 
-Version 2.0
+Version 2.0 (in progress)
 **Technologies used**
-* Java + Maven + Spring Boot MVC + REST + Postman (as FrontEnd) + GoogleWebService Libraries + Swagger (Documentation)
+* Java + Maven + Spring Boot MVC + REST + Postman (as FrontEnd) + Swagger (Documentation) + GoogleWebService Libraries
