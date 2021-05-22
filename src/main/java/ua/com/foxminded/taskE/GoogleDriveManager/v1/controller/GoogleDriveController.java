@@ -1,4 +1,4 @@
-package ua.com.foxminded.taskE.GoogleDriveManager.controller;
+package ua.com.foxminded.taskE.GoogleDriveManager.v1.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
@@ -11,7 +11,8 @@ import ua.com.foxminded.taskE.GoogleDriveManager.service.PostAndPatchService;
 import java.io.*;
 import java.util.List;
 
-@RestController
+@RestController("GoogleDriveControllerV1")
+@RequestMapping("/v1/")
 public class GoogleDriveController {
 
     @Autowired
