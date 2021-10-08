@@ -1,5 +1,5 @@
 # GoogleDriveManagerWithPostman
-A simple web service which can be used to manipulate files from google drive. Postman is used as a frontend.
+A sample of web service which can be used to manipulate files from google drive. Postman is used as a frontend.
 
 **How to run?**
 You can run it from the dist folder - by running first on make.sh/make.bat (to build the project using Maven and create a "uber"-jar), and then run it using GoogleDriveManager.bat / GoogleDriveManager.sh:
@@ -15,7 +15,7 @@ You can run it from the dist folder - by running first on make.sh/make.bat (to b
 5. When there was a desire to terminate the client's work - in the launch window, press "CTRL + C" to exit. 
 
 **Can I see how it works on the video?**
-Link to the video with the "presentation": 
+Link to the video with the "presentation"(RU): 
 https://www.youtube.com/watch?v=D4Ho_rc_Ndw
 
 Version 1.0
