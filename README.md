@@ -16,8 +16,8 @@ You can run it from the dist folder - by running first on make.sh/make.bat (to b
 
 Version 1.0
 **Technologies used**
-* Java + Maven + Spring Boot MVC + REST + Postman (as FrontEnd) + Swagger (Documentation)
+* Java, Maven, Spring Boot MVC, REST, Postman (as FrontEnd), Swagger (Documentation)
 
 Version 2.0 (in progress)
 **Technologies used**
-* Java + Maven + Spring Boot MVC + REST + Postman (as FrontEnd) + Swagger (Documentation) + GoogleWebService Libraries
+* Java, Maven, Spring Boot MVC, REST, Postman (as FrontEnd), Swagger (Documentation), GoogleWebService Libraries
